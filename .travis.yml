@@ -1,5 +1,5 @@
 language: ruby
 rvm:
-  - 2.0.0
+  - 2.4.0
 notifications:
   slack: codeforaustralia:kxGSzoJM9KsQZ1IoTjhnJkNo
